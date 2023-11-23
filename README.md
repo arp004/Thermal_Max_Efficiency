@@ -13,7 +13,7 @@ November, 23 2023
 
 # DOI
 
-[DOI](https://doi.org/10.5281/zenodo.10199298)
+[https://doi.org/10.5281/zenodo.10199298](https://doi.org/10.5281/zenodo.10199298)
 
 # License
 
