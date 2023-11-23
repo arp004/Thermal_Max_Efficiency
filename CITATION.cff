@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Algorithms for the computation of maximum thermal efficiency
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Rodriguez
+    given-names: Alejandro
+    email: arguezpupo@gmail.com
+    affiliation: >-
+      Marine Meteorology Center (CMM). National Institute of Meteorology (INSMET). La Habana. Cuba
+    orcid: 'https://orcid.org/0000-0002-6258-6604'
+repository-code: 'https://doi.org/10.5281/zenodo.10199298'
+abstract: >-
+  This application is to insert sea temperature data at different depths from the
+  GLOBAL_MULTIYEAR_PHY_001_030 output of the CMEMS service of the European Union;
+  and in addition, the maximum thermal efficiency data that are calculated using
+  a procedure that is present in the app.
+keywords:
+  - thermal efficiency
+  - Ocean
+license: MIT
+version: '1.0'
+date-released: '2023-11-01'
